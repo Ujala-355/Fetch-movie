@@ -1,0 +1,21 @@
+
+#con{
+    width:600px;
+    height:400px;
+    background-image:conic-gradient(rgb(214, 50, 86),rgb(156, 160, 223),pink);
+    margin:auto;
+    border-radius:10px;
+}
+#Id_input{
+    width:400px;
+    height:40px;
+    border-radius:10px;
+}
+#submit{
+    width:100px;
+    height:40px;
+    border-radius:10px;
+}
+.text{
+    color:white;
+}
